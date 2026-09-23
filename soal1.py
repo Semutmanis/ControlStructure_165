@@ -9,5 +9,3 @@ elif Total >= 60:
     print("Awas aja kalo kurang lagi")
 else:
     print("Mintaa di hajar kau man")
-
-  

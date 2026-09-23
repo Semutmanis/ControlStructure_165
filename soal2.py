@@ -9,4 +9,4 @@ elif angka2>angka1 and angka2>angka3:
 elif angka3>angka1 and angka3>angka2:
   print("angka pertama adalah yang terbesar")
 else:
-  print("tidak ada angka yang sam!!!")
+  print("tidak ada angka yang sama!!!")
